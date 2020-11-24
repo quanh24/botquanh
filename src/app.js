@@ -30,4 +30,4 @@ if (process.argv[2] === '--debug') {
   client.on(appEvents.debug, (info) => appHandlers.debug(info));
 }
 
-client.login(discordToken);
+client.login("NzgwODMyNTgzMDUxMTE2NTQ1.X701Ag.ZNqzLFuP33ogBVXWmmztBe5GAVA");
